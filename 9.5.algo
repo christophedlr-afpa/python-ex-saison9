@@ -4,7 +4,7 @@ ALGORITHME ex-9.5
         sentence: chaîne
         charPos: numérique
         leftSentence: chaîne
-        rightSentence: charPos
+        rightSentence: chaîne
 
     DEBUT
         ECRIRE "Veuillez entrer une phrase :"
