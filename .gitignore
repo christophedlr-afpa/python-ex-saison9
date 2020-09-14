@@ -28,6 +28,10 @@ share/python-wheels/
 *.egg
 lib64
 MANIFEST
+*.exe
+*.bat
+*.ps1
+activate*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -129,3 +133,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IntelliJ IDEA
+.idea/
+*.iml
